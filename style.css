@@ -1,0 +1,47 @@
+#home {
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+    box-shadow: 2px 0px 0px black;
+}
+
+.container {
+    overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+}
+
+#img {
+    height: 90px;
+    width: 100px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+p {
+    
+    text-align: justify;
+}
+
+#corp {
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+    box-shadow: ;
+    height: 500px;
+    box-shadow: 2px 0px 0px black;
+}
+
+#haut {
+    border: 1px black solid;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 2px 0px 0px black;
+}
+
+
+#bas{
+    border: 1px black solid;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
